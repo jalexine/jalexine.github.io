@@ -1,24 +1,23 @@
-title: ♡ alexine # name of the site
-author: Alexine Le Port # name of site's author
-email: jalexine@gmail.com # email of site's author
-url: https://jalexine.github.io # root address of the site
-baseurl: "/" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
-description: > # description of the site (multiple lines allowed) 
-  <p>  <br>  Alexine Le Port <br>  Here's my only fixed address <br> I'm a traveler, bioinformatics MSc student & I run a small clothing business <br> <br> > currently reading some papers and finishing projects in nyc <br>  <br> <span style="color: white;"> <span style="font-size: 40px;">️ ☣ </span> </span>  <a href="https://open.spotify.com/user/auwtkox85ovn7ahyyvuv64gql?si=cded6bf4e4ac4a8f" style="color: #f0166f;">
+title: ♡ alexine 
+author: Alexine  
+email: alexine.leport@gmail.com 
+url: https://jalexine.github.io 
+baseurl: "/" 
+description: > # text 
+  <p> Here's my only fixed address <br> I'm a traveler, bioinformatics MSc student & I run a small clothing business <br> <br> > currently locked in for 2 weeks in french countryside<br>  <br> <span style="color: white;"> <span style="font-size: 40px;">️ ☣ </span> </span>  <a href="https://open.spotify.com/user/auwtkox85ovn7ahyyvuv64gql?si=cded6bf4e4ac4a8f" style="color: #f0166f;">
     <span style="color: white;">  listen to my sick playlists </span> </a> <span style="color: white;"> <span style="font-size: 40px;">️ ☣ </span> </span> <br> <br> interest : bio/ml, computer arch, theology, philosophy, music, arts, poetry, opera, theater, horror, books, hiking, experiencing and pushing the boundaries of my understanding <br> <br> pure hate : journalism, ideology, <a href="/assets/badfaith.pdf" target="_blank" style="color: #f0166f;">this kind of bad faith</a>, authority, advertising, 2-factor authentication and Windows   <br> <br> ↓ will update soon  </p>
 
 permalink: /:slug.html
 
-favicon: "icons8-disco-ball-96.png" # name+extension of favicon (which must be put on the root folder)
-# goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
+favicon: "icons8-disco-ball-96.png" 
 
-remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
+remote_theme: riggraz/no-style-please 
 
 theme_config:
-  appearance: "auto" # can be "light", "dark" or "auto"
-  back_home_text: ".." # customize text for homepage link in post layout
-  date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: true # show blog description in home page
+  appearance: "auto" # "light", "dark" or "auto"
+  back_home_text: ".." 
+  date_format: "%Y-%m-%d" 
+  show_description: true
 
 sass:
   style: :compressed
