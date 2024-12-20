@@ -1,5 +1,5 @@
 
-If research papers feel like a grind and not something you can truly enjoy, it’s probably because you haven’t found the right approach yet. Simply browsing through them casually won’t cut it.  Like any skill you want to excel at, the key is learning how to analyze effectively. Analyzing and breaking down papers not only helps you understand and retain their content, but it also allows you to truly appreciate them. Its like playing a game where the more you engage, the more rewarding it becomes. <span style="color: white;"> Here’s my method : </span>
+If research papers feel like a grind and not something you can truly enjoy, it’s probably because you haven’t found the right approach yet. Simply browsing through them casually won’t cut it.  Like any skill you want to excel at, the key is learning how to analyze effectively. Analyzing and breaking down papers not only helps you understand and retain their content, but it also allows you to truly appreciate/hate them. Its like playing a game where the more you engage, the more rewarding it becomes. <span style="color: white;"> Here’s my method : </span>
 
 ## <span style="color: white;"> Set the Stage</span>
 
