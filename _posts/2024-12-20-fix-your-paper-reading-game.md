@@ -1,5 +1,5 @@
 
-If research papers feel like a grind and not something you can truly enjoy, it’s probably because you haven’t found the right approach yet. Simply browsing through them casually won’t cut it. Like any skill, learning how to analyze effectively will change the game. By breaking down papers step-by-step, you won’t just understand and retain their content—you’ll also learn to appreciate their depth. Think of it like a puzzle: the more you engage, the more rewarding the experience becomes. Here’s my method :
+If research papers feel like a grind and not something you can truly enjoy, it’s probably because you haven’t found the right approach yet. Simply browsing through them casually won’t cut it.  Like any skill you want to excel at, the key is learning how to analyze effectively. Analyzing and breaking down papers not only helps you understand and retain their content, but it also allows you to truly appreciate them. Its like playing a game where the more you engage, the more rewarding it becomes. <span style="color: white;"> Here’s my method : </span>
 
 ## <span style="color: white;"> Set the Stage</span>
 
@@ -7,7 +7,7 @@ Start by working with physical copies of the papers or using a tablet so you can
 
 Try this technique on about 5-10 papers. Initially, it might feel like you’re moving slowly, but stick with it. If you’re struggling, consider using a tool like ChatGPT for the first couple of attempts. Once you’ve got a handle on things, the process becomes much easier.
 
-# #<span style="color: white;"> My Step-by-Step Exercise</span>
+## <span style="color: white;"> My Step-by-Step Exercise</span>
 
 ### <span style="color: white;"> Problem/State of the Art</span>
 Identify the problem the paper addresses and how it fits into existing research. Understanding the gap they’re trying to fill sets the stage for why the paper matters.
