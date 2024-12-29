@@ -7,16 +7,13 @@ entries:
       - title: my mid articles... >
         url: archive.html
 
-      - title: my recommendations... >
-        url: reco_list.html
-
   - title: <b> my links  </b>
     entries:
       - title: insta
         url: https://www.instagram.com/jalexinee/
       - title: date me
-        url: https://www.linkedin.com/in/jalexineleport/
-      - title: email me ♡
+        url: https://www.wikihow.com/Win-a-Woman%27s-Heart
+      - title: send me love letter ♡
         url: mailto:alexine.leport@gmail.com
   # - title: kategori-1
   #   post_list:
