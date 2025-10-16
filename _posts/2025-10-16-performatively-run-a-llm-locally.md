@@ -8,8 +8,11 @@ category: example
 Here’s how..</span>
 
 
-![mattisdovier](assets/mattisdoviereyes.gif)
+<p align="center">
+  <img src="assets/mattisdoviereyes.gif" alt="mattisdovier" width="500" style="height:auto;" />
+</p>
 *Mattis Dovier*
+
 
 ## <span style="color: white;">1. Device </span>
   
@@ -45,9 +48,8 @@ Once downloaded, create a folder called `models` inside your `llama.cpp` directo
 <br>
 
 
-![morales](assets/yudho.gif)
-*[Yudho](https://yudho.xyz/)*
-
+<img src="assets/yudho.gif" alt="morales" width="320" />
+* [Yudho](https://yudho.xyz/) *
 
 
 ## <span style="color: white;">3. Installation  
@@ -70,35 +72,21 @@ cmake -B build
 cmake --build build -j
 ```
 <br>
+## 4. Run the Model
 
-## <span style="color: white;">4. Run the Model </span>
-  
+### Basic command
+<pre style="color:#9aa0a6;opacity:.9">./build/bin/llama-cli -m ./models/llama3.1-8b-instruct.Q4_K_M.gguf -p "hey do you have weed?"</pre>
+This runs a one-off prompt and prints the reply.
 
-### Basic command  
-```text
-./build/bin/llama-cli -m ./models/llama3.1-8b-instruct.Q4_K_M.gguf -p "hey do you have weed?"
-```
-This runs a one-off prompt and prints the model’s reply.  
+### Interactive session
+<pre style="color:#9aa0a6;opacity:.9">./build/bin/llama-cli -m ./models/lexi-llama-3-8B-Uncensored-4Q_K_M.gguf -t 8 -c 2048 --temp 0.7 --interactive --color</pre>
+`t` = threads, `c` = context length, `--temp` = creativity, `--interactive` = chat mode, `--color` = colored output.  
+Type your questions, hit Enter; replies are in real time, fully offline.
 
-### Interactive session  
-```text
-./build/bin/llama-cli -m ./models/lexi-llama-3-8B-Uncensored-4Q_K_M.gguf -t 8 -c 2048 --temp 0.7 --interactive --color
-```
-`-t` = threads, `-c` = context length, `--temp` = creativity, `--interactive` = chat mode, `--color` = colored output.  
-This opens a colored, interactive chat inside your terminal.  
-Type your questions, hit Enter, and the model responds in real time, fully offline.  
-
-Ask ChatGPT for more parameters or check the docs. 
-
-
-## Give It a Personality  
-
-Before your first message, you can define a system prompt to set its tone:  
-```
-[SYSTEM PROMPT: You are my everyday assistant and boyfriend. Personality: witty, a bit rebellious, playful but sharp. You give me practical advice, creative ideas, and honest takes even if it’s blunt. You hate advertisements. Never corporate, never boring.]
-```
-
-Paste that in `models/sys.txt` and it’ll stay consistent through the session.  
+### Give it a personality
+Before your first message, set a system prompt:
+<pre style="color:#9aa0a6;opacity:.9">[SYSTEM PROMPT: You are my everyday assistant and boyfriend. Personality: witty, a bit rebellious, playful but sharp. You give me practical advice, creative ideas, and honest takes even if it’s blunt. You hate advertisements. Never corporate, never boring.]</pre>
+Paste it in `models/sys.txt` (or as the first line in the session).
 
 
 if you have any questions about something that isn’t working here, please ask chatgpt.
