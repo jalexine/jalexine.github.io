@@ -11,7 +11,8 @@ Here’s how..</span>
 ![mattisdovier](assets/mattisdoviereyes.gif)
 *Mattis Dovier*
 
-## 1. Device  
+## <span style="color: white;">1. Device </span>
+  
 
 If you’re on **Android**, start by downloading **Termux** from [F-Droid](https://f-droid.org/en/packages/com.termux/).  
 If iOS, I guess [iSHell](https://apps.apple.com/us/app/ish-shell/id1436902243).  
@@ -32,7 +33,8 @@ You can ask ChatGPT if your device supports the model you want to use.
 
 <br>
 
-## 2. The Model  
+## <span style="color: white;">2. The Model </span>
+ 
 
 Models come in different forms, and for local inference you need the **quantized** kind — files ending with `.gguf`.  
 These are compressed versions that can actually fit into your hardware without exploding your RAM.  
@@ -48,7 +50,7 @@ Once downloaded, create a folder called `models` inside your `llama.cpp` directo
 
 
 
-## 3. Installation  
+## <span style="color: white;">3. Installation  
 
 I’m using **llama.cpp** because it’s the simplest and most flexible option.  
 If you want to try other setups, you can check **Ollama**, **LM Studio**, **text-generation-webui**, and others.  
@@ -69,16 +71,17 @@ cmake --build build -j
 ```
 <br>
 
-## 4. Run the Model  
+## <span style="color: white;">4. Run the Model </span>
+  
 
 ### Basic command  
-```bash
+```text
 ./build/bin/llama-cli -m ./models/llama3.1-8b-instruct.Q4_K_M.gguf -p "hey do you have weed?"
 ```
 This runs a one-off prompt and prints the model’s reply.  
 
 ### Interactive session  
-```bash
+```text
 ./build/bin/llama-cli -m ./models/lexi-llama-3-8B-Uncensored-4Q_K_M.gguf -t 8 -c 2048 --temp 0.7 --interactive --color
 ```
 `-t` = threads, `-c` = context length, `--temp` = creativity, `--interactive` = chat mode, `--color` = colored output.  
@@ -97,7 +100,6 @@ Before your first message, you can define a system prompt to set its tone:
 
 Paste that in `models/sys.txt` and it’ll stay consistent through the session.  
 
----
 
 if you have any questions about something that isn’t working here, please ask chatgpt.
 
