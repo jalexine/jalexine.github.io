@@ -22,13 +22,19 @@ Before, things lasted, you bought a machine, a phone, a bed, and it stayed for d
 
 It’s always the same story. Look at OpenAI. You really thought they would let you use it for free forever? 
 
+<br>
+
 <img src="assets/gpt5monet.jpg" alt="gpt5monet" width="520" />
-* [Read this](https://newsletter.semianalysis.com/p/gpt-5-ad-monetization-and-the-superapp) *
+[Read this](https://newsletter.semianalysis.com/p/gpt-5-ad-monetization-and-the-superapp)
 
 That’s the [bait and switch](https://en.wikipedia.org/wiki/Bait-and-switch). They start solid, reliable, often free, then quietly turn it into a subscription. Everything becomes a subscription, EVEN YOUR BED (Eight Sleep). why am i paying every month for an ink-tablet….
 <br>
 
-The idea of paying often isn’t new, but it became invisible. Before, marketing played with numbers: 10 became 9.99, to make you feel like you were spending less. Now it plays with time. Instead of paying once, you pay forever, but in amounts too small to notice. A few dollars a month, quietly taken, no decision required. It was sold as flexibility, “cancel anytime,” but that’s just a new disguise for commitment and auto renewal does the rest, removing the moment where you choose. And when prices go up, you stay. Your data, your setup, your history, all trapped inside convenience. You could leave, but you won’t.
+The idea of paying often isn’t new, but it became invisible. Before, marketing played with numbers: 10 became 9.99, to make you feel like you were spending less. Now it plays with time. Instead of paying once, you pay forever, but in amounts too small to notice. A few dollars a month, quietly taken, no decision required. 
+
+<br>
+
+It was sold as flexibility, <span style="color:white;"> “cancel anytime,” but that’s just a new disguise for commitment and auto renewal does the rest, removing the moment where you choose. And when prices go up, you stay. Your data, your setup, your history, all trapped inside convenience. You could leave, but you won’t.
 
 <br>
 ## <span style="color: white;"> >The Disappearance of Marketing </span>
@@ -43,7 +49,7 @@ We use large language model everyday, owned by big closed compagnies, we are slo
 
 <br>
 
-<img src="assets/boots.gif" alt="morales" width="320" />
+<img src="assets/boots.gif" alt="boots" width="420" />
 
 
 <br>
@@ -55,9 +61,12 @@ What’s funny is how the resistance disappeared too. The people who used to fig
 ## <span style="color: white;"> Personalization as Manipulation </span>
 
 After belonging came emotion. The system learned how to look back at you. Algorithms started showing what feels personal, music that matches your taste, clothes that fit your style, news that fits your mood. It feels intimate, almost caring. <span style="color: white;"> The machine understands you. </span>
+
 <br> 
+
 But that’s the point. Personalization isn’t made to only please you, it’s made to keep you or generate more money. Every choice, every click, every scroll helps it rebuild you in its own format. Either their having more control on you or they sell this control
 
+<br>
 
 <img src="assets/niktweet.jpg" alt="nikthebest" width="620" />
 [NIK's tweet](https://x.com/ns123abc/status/1981816923974512698)
@@ -66,7 +75,7 @@ Leaving feels wrong because it feels like leaving yourself. Your playlists, your
 
 
 
-## <span style="color: white;"> Not All of Them </span>
+## <span style="color: white;"> #NotAllofThem </span>
 
 Not every subscription is a scam. The model itself isn’t evil, it just got hijacked. Some subscriptions actually free people like when you support a small creator, a researcher, or a writer, you’re not feeding the system, you’re funding independence.
 
