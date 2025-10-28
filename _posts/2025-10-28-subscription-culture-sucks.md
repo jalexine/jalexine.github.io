@@ -25,7 +25,9 @@ It’s always the same story. Look at OpenAI. You really thought they would let 
 <br>
 
 <img src="assets/gpt5monet.jpg" alt="gpt5monet" width="520" />
-[Read this](https://newsletter.semianalysis.com/p/gpt-5-ad-monetization-and-the-superapp)
+[read it here](https://newsletter.semianalysis.com/p/gpt-5-ad-monetization-and-the-superapp)
+
+<br>
 
 That’s the [bait and switch](https://en.wikipedia.org/wiki/Bait-and-switch). They start solid, reliable, often free, then quietly turn it into a subscription. Everything becomes a subscription, EVEN YOUR BED (Eight Sleep). why am i paying every month for an ink-tablet….
 <br>
@@ -71,9 +73,11 @@ But that’s the point. Personalization isn’t made to only please you, it’s 
 <img src="assets/niktweet.jpg" alt="nikthebest" width="620" />
 [NIK's tweet](https://x.com/ns123abc/status/1981816923974512698)
 
+<br>
+
 Leaving feels wrong because it feels like leaving yourself. Your playlists, your data, your saved settings, all stored somewhere else. These systems remember you better than you do. You stay, not because you want to, but because leaving means starting over from nothing.
 
-
+<br>
 
 ## <span style="color: white;"> #NotAllofThem </span>
 
