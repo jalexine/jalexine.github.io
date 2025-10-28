@@ -36,7 +36,7 @@ The idea of paying often isn’t new, but it became invisible. Before, marketing
 Advertising used to be loud. Billboards, TV spots, big fonts, big promises. You could ignore it, mock it, hate it, but at least you knew what it was. Now it’s invisible. It doesn’t sell, it belongs. Brands talk like people. They post memes, reply to jokes, pretend to be part of your world. They call it community, but it’s really proximity. Marketing stopped knocking, it moved in.
 
 
-Modern marketing doesn’t look like ads anymore. It hides behind creators, ambassadors, brand families. It talks about identity, values, emotions. It pretends to care. It doesn’t want to convince you, it wants to be you. It builds intimacy, then feeds on it.
+<span style="color: white"> Modern marketing doesn’t look like ads anymore. It hides behind creators, ambassadors, brand families. It talks about identity, values, emotions. It pretends to care. It doesn’t want to convince you, it wants to be you. It builds intimacy, then feeds on it. </span>
 
 <br>
 We use large language model everyday, owned by big closed compagnies, we are slowly allowing them to shape what we read, suggest what we think, decide what we like. They’ll market through us, not to us. And we won’t notice the line between opinion and influence disappearing. It already starts through social media algorithms and it already has consequences…
