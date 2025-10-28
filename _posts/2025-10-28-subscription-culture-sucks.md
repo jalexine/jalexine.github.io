@@ -22,7 +22,7 @@ Before, things lasted, you bought a machine, a phone, a bed, and it stayed for d
 
 It’s always the same story. Look at OpenAI. You really thought they would let you use it for free forever? 
 
-<img src="assets/gpt5monet.jpg" alt="gpt5monet" width="420" />
+<img src="assets/gpt5monet.jpg" alt="gpt5monet" width="520" />
 * [Read this](https://newsletter.semianalysis.com/p/gpt-5-ad-monetization-and-the-superapp) *
 
 That’s the [bait and switch](https://en.wikipedia.org/wiki/Bait-and-switch). They start solid, reliable, often free, then quietly turn it into a subscription. Everything becomes a subscription, EVEN YOUR BED (Eight Sleep). why am i paying every month for an ink-tablet….
@@ -45,6 +45,9 @@ We use large language model everyday, owned by big closed compagnies, we are slo
 
 <img src="assets/boots.gif" alt="morales" width="320" />
 
+
+<br>
+
 What’s funny is how the resistance disappeared too. The people who used to fight ads, punk kids and leftists who tore down billboards, now just want to be represented in them. :)
 
 <br>
@@ -56,7 +59,7 @@ After belonging came emotion. The system learned how to look back at you. Algori
 But that’s the point. Personalization isn’t made to only please you, it’s made to keep you or generate more money. Every choice, every click, every scroll helps it rebuild you in its own format. Either their having more control on you or they sell this control
 
 
-<img src="assets/niktweet.jpg" alt="nikthebest" width="420" />
+<img src="assets/niktweet.jpg" alt="nikthebest" width="620" />
 [NIK's tweet](https://x.com/ns123abc/status/1981816923974512698)
 
 Leaving feels wrong because it feels like leaving yourself. Your playlists, your data, your saved settings, all stored somewhere else. These systems remember you better than you do. You stay, not because you want to, but because leaving means starting over from nothing.
@@ -68,7 +71,7 @@ Leaving feels wrong because it feels like leaving yourself. Your playlists, your
 Not every subscription is a scam. The model itself isn’t evil, it just got hijacked. Some subscriptions actually free people like when you support a small creator, a researcher, or a writer, you’re not feeding the system, you’re funding independence.
 
 
-<img src="assets/green.gif" alt="green" width="320" />
+<img src="assets/greens.gif" alt="green" width="320" />
 <br>
 You’re helping someone stop depending on middlemen, sponsors, or corporations, and that’s not exploitation, that’s actually redistribution. A good subscription gives someone enough stability to earn back their time, or to share it, by helping others or supporting causes that matter.
 
