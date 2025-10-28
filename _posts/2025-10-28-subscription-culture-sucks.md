@@ -22,7 +22,7 @@ Before, things lasted, you bought a machine, a phone, a bed, and it stayed for d
 
 It’s always the same story. Look at OpenAI. You really thought they would let you use it for free forever? 
 
-<img src="assets/gpt5monet" alt="gpt5monet.jpg" width="320" />
+<img src="assets/gpt5monet.jpg" alt="gpt5monet" width="420" />
 * [Read this](https://newsletter.semianalysis.com/p/gpt-5-ad-monetization-and-the-superapp) *
 
 That’s the [bait and switch](https://en.wikipedia.org/wiki/Bait-and-switch). They start solid, reliable, often free, then quietly turn it into a subscription. Everything becomes a subscription, EVEN YOUR BED (Eight Sleep). why am i paying every month for an ink-tablet….
@@ -56,8 +56,8 @@ After belonging came emotion. The system learned how to look back at you. Algori
 But that’s the point. Personalization isn’t made to only please you, it’s made to keep you or generate more money. Every choice, every click, every scroll helps it rebuild you in its own format. Either their having more control on you or they sell this control
 
 
-<img src="assets/niktweet.jpg" alt="nikthebest" width="320" />
-* [NIK's tweet](https://x.com/ns123abc/status/1981816923974512698) *
+<img src="assets/niktweet.jpg" alt="nikthebest" width="420" />
+[NIK's tweet](https://x.com/ns123abc/status/1981816923974512698)
 
 Leaving feels wrong because it feels like leaving yourself. Your playlists, your data, your saved settings, all stored somewhere else. These systems remember you better than you do. You stay, not because you want to, but because leaving means starting over from nothing.
 
@@ -80,5 +80,6 @@ But a bad one is when the money goes to people with influence who don’t create
 
 <br>
 
-Maybe it’s time to check your list of subscriptions and cancel a few.
- >Anyway, you can still subscribe to mine on X
+<span style="color: white;"> Maybe it’s time to check your list of subscriptions and cancel a few.
+  Anyway, you can still subscribe to mine on X
+ </span>
