@@ -29,7 +29,7 @@ Look at the evidence they provide. How much does their method improve accuracy, 
 ### <span style="color: white;"> Strengths</span>
 Reflect on the strengths of the paper by considering whether it effectively addresses a major problem and whether its methodology introduces something truly novel. Assess how the paper contributes to the field and whether its insights feel impactful or groundbreaking. This reflection helps solidify your understanding of the paper's value.
 
-### <span style="color: white;"> Improvrments</span>
+### <span style="color: white;"> Improvements</span>
 Now, think about where the paper could’ve done better. Did the evaluations cover everything important, or was something missed? Were there parts that felt confusing or poorly explained? Maybe the experiments needed more depth, or some of the claims felt exaggerated. Noticing these things helps you think more critically and really engage with the paper.
 
 ### <span style="color: white;"> What I Learned/Liked</span>
