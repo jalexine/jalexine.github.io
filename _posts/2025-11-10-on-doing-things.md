@@ -11,12 +11,20 @@ Too much noise, too many people doing things, showing progress, achievements. It
 ![bloodpoet](assets/boatdovier.gif)
 *Mattis Dovier*
 
+<br>
+
 ## <span style="color: white;"> Complexity? </span>
 Most of the fear comes from complexity. Complex things look scary from far away, equations in a paper, code, someone’s setup, someone’s work. The brain just shuts down and says I’ll never get there, but once the first step is done, once something actually starts, it’s never that complicated. It just looked that way.
 
 
-> “An idiot admires complexity, a genius admires simplicity, a physicist tries to make it simple. For an idiot, the more complicated something is, the more he will admire it. If you make something so clusterfucked he can’t understand it, he’s gonna think you’re a god because you made it so complicated nobody can understand it. That’s how they write journals in academics, they try to make it so complicated people think you’re a genius.”  
-> **Terry Davis**
+<blockquote style="color: white;">
+“An idiot admires complexity, a genius admires simplicity, a physicist tries to make it simple.  
+For an idiot, the more complicated something is, the more he will admire it.  
+If you make something so clusterfucked he can’t understand it, he’s gonna think you’re a god because you made it so complicated nobody can understand it.  
+That’s how they write journals in academics, they try to make it so complicated people think you’re a genius.”  
+<br><br>
+<b>Terry Davis</b>
+</blockquote>
 
 
 I like this quote from Terry Davis. Sometimes it’s just you being an idiot because you don’t have enough knowledge. Sometimes it’s certain people making things so complicated that you think [they’re smart](https://en.wikipedia.org/wiki/Jacques_Lacan).
@@ -26,9 +34,11 @@ The quiet truth is that most people don’t really do things. The bar is lower t
 <br>
 
 <p align="center">
-  <img src="assets/enigmatriz.jpg" alt="enigmatriz" width="270" style="height:auto;" />
+  <img src="assets/enigmatriz.jpeg" alt="enigmatriz" width="270" style="height:auto;" />
 </p>
 [Enigmatrix](https://x.com/enigmatriz)
+
+<br>
 
 <br>
 
@@ -36,7 +46,7 @@ The quiet truth is that most people don’t really do things. The bar is lower t
 
 What helps is starting small, without overthinking the process. Pick a book and read just enough to understand the basics, then stop before it turns into endless theory. It’s not about finishing the book, it’s about reaching the point where you can actually try something. That’s where things start to make sense.
 
-<h2 style="color: white; font-size: 24px;"> Here is a list of resources, you can find the books on **Libgen** if you can’t afford them.</h2>
+<h2 style="color: white; font-size: 24px;"> [Here is a list of resources, you can find the books on Libgen if you can’t afford them](https://docs.google.com/spreadsheets/d/10X-el41KoDluiC4ffXGL1wMDT8R2moOGPvdHE4j65nk/edit?usp=sharing) </h2>
 *i will update the list, feel free to send me some ressources to add!*
 
 If you don’t yet understand what kind of project you want to do, that’s fine and part of the process. You’ll know what to do once you’ve gained enough knowledge.
@@ -54,9 +64,11 @@ If you still can’t start, it might not be about motivation at all. Sometimes i
 
 IMO 
 <br>
-Changing your environment helps. Clean your room, open the windows, change the light, throw away useless stuff. Make it a place where it feels possible to work. Add something nice, something that makes you want to sit there. Go outside more often, walk, listen to music, let your mind drift a bit. Sometimes ideas come when you stop trying to force them.
 
-![malkovitch1](assets/malkovitch1.jpg)
+
+<span style="color: white;"> Changing your environment helps. Clean your room, open the windows, change the light, throw away useless stuff. Make it a place where it feels possible to work. Add something nice, something that makes you want to sit there. Go outside more often, walk, listen to music, let your mind drift a bit. Sometimes ideas come when you stop trying to force them.</span>
+
+![malkovitch1](assets/malkovich1.jpg)
 
 You also have to ask if the direction you’re taking even makes sense, if the kid version of you would be proud. That question hurts a bit, but it’s useful, because it brings you back to what mattered before all the noise.
 
