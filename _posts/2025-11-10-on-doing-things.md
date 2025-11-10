@@ -47,7 +47,7 @@ The quiet truth is that most people don’t really do things. The bar is lower t
 What helps is starting small, without overthinking the process. Pick a book and read just enough to understand the basics, then stop before it turns into endless theory. It’s not about finishing the book, it’s about reaching the point where you can actually try something. That’s where things start to make sense.
 
 <h2 style="color: white; font-size: 24px; font-weight: 600; margin: 0.5em 0;">
-  <a href="https://docs.google.com/spreadsheets/d/10X-eI41KoDluiC4ffXGL1wMDT8R2mo0GPvdHE4j65nk/edit?usp=sharing"
+  <a href="https://docs.google.com/spreadsheets/d/10X-el41KoDluiC4ffXGL1wMDT8R2moOGPvdHE4j65nk/edit?usp=sharing"
      style="color: white; text-decoration: none;">
     Here is a list of resources. If you can’t afford the books, you can find them on Libgen.
   </a>
@@ -62,6 +62,7 @@ Spend some time around people who actually build things. Follow them on **X**, r
 
 <br>
 
+<br>
 
 ## <span style="color:white;"> No Start </span>
 
