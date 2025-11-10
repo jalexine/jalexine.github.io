@@ -46,8 +46,15 @@ The quiet truth is that most people don’t really do things. The bar is lower t
 
 What helps is starting small, without overthinking the process. Pick a book and read just enough to understand the basics, then stop before it turns into endless theory. It’s not about finishing the book, it’s about reaching the point where you can actually try something. That’s where things start to make sense.
 
-<h2 style="color: white; font-size: 24px;"> [Here is a list of resources, you can find the books on Libgen if you can’t afford them](https://docs.google.com/spreadsheets/d/10X-el41KoDluiC4ffXGL1wMDT8R2moOGPvdHE4j65nk/edit?usp=sharing) </h2>
-*i will update the list, feel free to send me some ressources to add!*
+<h2 style="color: white; font-size: 24px; font-weight: 600; margin: 0.5em 0;">
+  <a href="https://docs.google.com/spreadsheets/d/10X-eI41KoDluiC4ffXGL1wMDT8R2mo0GPvdHE4j65nk/edit?usp=sharing"
+     style="color: white; text-decoration: none;">
+    Here is a list of resources. If you can’t afford the books, you can find them on Libgen.
+  </a>
+</h2>
+<p><em>I will update the list; feel free to send me resources to add.</em></p>
+
+
 
 If you don’t yet understand what kind of project you want to do, that’s fine and part of the process. You’ll know what to do once you’ve gained enough knowledge.
 
@@ -63,14 +70,11 @@ If you still can’t start, it might not be about motivation at all. Sometimes i
 <br>
 
 IMO 
-<br>
-
-
-<span style="color: white;"> Changing your environment helps. Clean your room, open the windows, change the light, throw away useless stuff. Make it a place where it feels possible to work. Add something nice, something that makes you want to sit there. Go outside more often, walk, listen to music, let your mind drift a bit. Sometimes ideas come when you stop trying to force them.</span>
+Changing your environment helps. Clean your room, open the windows, change the light, throw away useless stuff. Make it a place where it feels possible to work. Add something nice, something that makes you want to sit there. Go outside more often, walk, listen to music, let your mind drift a bit. Sometimes ideas come when you stop trying to force them.
 
 ![malkovitch1](assets/malkovich1.jpg)
 
-You also have to ask if the direction you’re taking even makes sense, if the kid version of you would be proud. That question hurts a bit, but it’s useful, because it brings you back to what mattered before all the noise.
+<span style="color:white;"> You also have to ask if the direction you’re taking even makes sense, if the kid version of you would be proud. That question hurts a bit, but it’s useful, because it brings you back to what mattered before all the noise. </span>
 
 <br>
 
