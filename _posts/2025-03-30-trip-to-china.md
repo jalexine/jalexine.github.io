@@ -1,11 +1,27 @@
-![guangxi](assets/guangxi.jpg)
+
+
+
+
+<span style="color:white"> I spent 3 months in china, here are my thoughts and tips </span>
+![china](assets/china.jpg)
+
+<br>
+
 # Everyday life
 Life here feels way easier. Paying, ordering, getting around—everything’s smooth and efficient. Technology is more advanced and more integrated. The quality of service is on another level. Workers are more involved and friendly, which makes daily life way more pleasant. You can find any type of services, like someone waiting for you at a restaurant, sending an item for you.. You can received products in 20 min.
 Cities are a bit less walkable, some big ones are massive, and it can feel overwhelming at times. The food is so fxcking great, super diverse, and cheap. Tourism is also built mainly for Chinese people, which makes it fascinating to experience from the outside. They build so much infrastructure for Chinese tourism—sometimes it can be weird because you find empty villages, shopping malls, hotels…
+
+<br>
+
 People don’t really talk politics unless they’re very close. What stands out most is how safe it feels. You can leave your bag in public and it’ll still be there, maybe not in nightclubs tho. As a girl, being able to walk at night without fear is priceless. The worst thing you can experience at a party is being too drunk. There are no drugs. I haven’t seen homeless people either. Streets are clean.
+
+<br>
 
 China really feels like a high-trust society. People respect spaces, rules, and each other in a way that’s hard to explain if you haven’t lived it. Also, I feel that China is way more advances than the US, i'll not talk about EU..
 
+![flight](assets/flight.jpg)
+
+<br>
 
 # If you want to travel to China
 Great for you if you want to lock in and work on a project for a while. You’ll need to set up WeChat and Alipay with your credit card—they’re all-in-one apps that let you pay, order a taxi (Didi), and more.
@@ -19,14 +35,7 @@ If you have any questions or need tips, feel free to reply to my Twitter post or
 # Some discussions I had here
 I talked with some Chinese people. Many of them see the West as collapsing, partly because of how critical people are toward their own governments, and also because of the rise of social movements like wokism and anti-wokism. Most of them are happy with the government. One of them told me it’s actually disturbing not to have access to local news or [faits divers](https://shs.cairn.info/journal-hermes-la-revue-2007-3-page-107?lang=en), since those things are often hidden from the public. I think that’s a good thing in some cases. It helps prevent the spread of fear, social panic and even the propagation of certain crimes. Not everyone needs to know everything. Maybe transparency isn’t always the highest good. Sometimes, stability and peace of mind matter more. I’m not saying censorship is ideal. But maybe our obsession with absolute transparency isn’t perfect either. The foreigners I’ve met here tend to fall into two extremes: they’re either fully chinese-pilled or extremely critical, judging the culture without really trying to understand it. It's easier when you're a foreigner to have a good impression of china, i might never understand what he mean to live here.
 
-
-# Personal
-I needed some changes. I was supposed to do an internship this year, but I didn’t want my ex crashing my workplace again, so I’m taking some time to figure out whether I should continue in bioinformatics. There's a whole situation that upset me, so the best is to leave. I said 2025 would be my Asian arc and the year I do things I actually enjoy. So here I am in China, working on small projects like writing a [compiler](https://www.youtube.com/watch?v=B5YokNW7tIs).
-I’m really happy rn. I’ve found great spots to work, beautiful landscapes, and my daily life here feels incredibly smooth.
-Being here for the first time triggered something like a [Copernican revolution](https://phil871.colinmclear.net/notes/kant-copernican-revolution/) in me. Growing up with punks, I learned to build myself in constant opposition: to authority, to norms, to the system. I heard a lot growing up that life was a [simulation](https://www.youtube.com/watch?v=c_Ot1OEfk9I). In the West, we often shape our identities by what we criticize or reject. It’s a culture that puts the individual at the center—freedom, rebellion, personal truth—but sometimes it ends up isolating us more than it connects us.
-Here, people seem less obsessed with being different and more focused on how they fit into something larger than themselves: a family, a rhythm, a shared purpose. It’s not about erasing individuality but about grounding it. Creating value. There’s a quiet strength in that, one I wasn’t expecting to find.
-It might sound naive, but I no longer feel the need to enter systems I dislike just to hope I can change them from within. I’d rather move toward what truly resonates with me, where I feel aligned, useful, and free to create something real. I guess I’m a little china-pilled now, but i know that soon it will change, can't wait to see my next state of mind. My views on journalism, ads, marketing, windows haven't changed tho.
-I might consider to move here later on.
+![library](assets/library.jpg)
 
 # Philosophical ground
 I’ve been thinking about the philosophical roots behind this contrast (the way we think comes from philosophy, fyi). In the West, our worldview is mostly built on the same philosophers and core ideas. In Asia, the foundation is entirely different — shaped by traditions like Buddhism, Confucianism, and Taoism. They have a fundamentally different way of thinking — one that doesn’t follow the same logic or values we’re used to.
