@@ -47,7 +47,12 @@ Make sure to set up a VPN on your phone and laptop before coming; otherwise, you
 <br>
 
 # Some discussions I had here
-I talked with some Chinese people. Many of them see the West as collapsing, partly because of how critical people are toward their own governments, and also because of the rise of social movements like wokism and anti-wokism. Most of them are happy with the government. One of them told me it’s actually disturbing not to have access to local news or [faits divers](https://shs.cairn.info/journal-hermes-la-revue-2007-3-page-107?lang=en), since those things are often hidden from the public. I think that’s a good thing in some cases. It helps prevent the spread of fear, social panic and even the propagation of certain crimes. Not everyone needs to know everything. Maybe transparency isn’t always the highest good. Sometimes, stability and peace of mind matter more. I’m not saying censorship is ideal. But maybe our obsession with absolute transparency isn’t perfect either. The foreigners I’ve met here tend to fall into two extremes: they’re either fully chinese-pilled or extremely critical, judging the culture without really trying to understand it. It's easier when you're a foreigner to have a good impression of china, i might never understand what he mean to live here.
+I talked with some Chinese people. Many of them see the West as collapsing, partly because of how critical people are toward their own governments, and also because of the rise of social movements like wokism and anti-wokism. Most of them are happy with the government. One of them told me it’s actually disturbing not to have access to local news or [faits divers](https://shs.cairn.info/journal-hermes-la-revue-2007-3-page-107?lang=en), since those things are often hidden from the public. 
+
+<br>
+
+I think that’s a good thing in some cases. It helps prevent the spread of fear, social panic and even the propagation of certain crimes. Not everyone needs to know everything. Maybe transparency isn’t always the highest good. Sometimes, stability and peace of mind matter more. I’m not saying censorship is ideal. But maybe our obsession with absolute transparency isn’t perfect either. The foreigners I’ve met here tend to fall into two extremes: they’re either fully chinese-pilled or extremely critical, judging the culture without really trying to understand it. It's easier when you're a foreigner to have a good impression of china, i might never understand what he mean to live here.
+
 
 ![pixelart](assets/pixelart.jpg)
 
