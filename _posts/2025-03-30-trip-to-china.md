@@ -2,7 +2,10 @@
 
 
 
-<span style="color:white"> I spent 3 months in china, here are my thoughts and tips </span>
+<span style="color:white"> I spent 3 months in China. Here are my thoughts and what can help if it’s your first time there.</span>
+
+<br>
+
 ![china](assets/china2.jpg)
 
 <br>
@@ -26,9 +29,12 @@ People don’t really talk politics unless they’re very close. What stands out
 <br>
 
 # If you want to travel to China
-Great for you if you want to lock in and work on a project for a while. You’ll need to set up WeChat and Alipay with your credit card—they’re all-in-one apps that let you pay, order a taxi (Didi), and more.
+Great for you if you want to lock in and work on a project for a while. <span style="color:white"> You’ll need to set up WeChat and Alipay with your credit card—they’re all-in-one apps that let you pay, order a taxi (Didi), and more. If you are already comfortable with this, you should try Meituan, its an app with coupons. eg. for instead of paying your coffee $2, you will only pay $0.5  </span> 
 You can book flights, hotels, and trains on [Trip.com](https://www.trip.com/) (a Chinese platform, English interface, usually cheaper).
-It’s best to start in the south (Shenzhen, HK, Guangzhou, Guilin); people are more open-minded and you can find foreigners. Book a room in a hostel so you can meet other foreigners and get adapted before going fully solo. You don't need to plan everything in advance, just go with the flow, it’s easy to book everything here.
+
+<br>
+
+It’s best to start in the south (Shenzhen, HK, Guangzhou, Guilin); people are more open-minded and you can find foreigners. Book a room in a hostel so you can meet other foreigners and get adapted before going fully solo. You don't need to plan everything in advance, just go with the flow, it’s easy to book everything here. 
 A (near) real-time translation app can be super helpful if you don’t speak Mandarin—most people here don’t speak English.
 Make sure to set up a VPN on your phone and laptop before coming; otherwise, you won’t be able to access most Western apps and websites.
 
@@ -37,15 +43,15 @@ Make sure to set up a VPN on your phone and laptop before coming; otherwise, you
 # Some discussions I had here
 I talked with some Chinese people. Many of them see the West as collapsing, partly because of how critical people are toward their own governments, and also because of the rise of social movements like wokism and anti-wokism. Most of them are happy with the government. One of them told me it’s actually disturbing not to have access to local news or [faits divers](https://shs.cairn.info/journal-hermes-la-revue-2007-3-page-107?lang=en), since those things are often hidden from the public. I think that’s a good thing in some cases. It helps prevent the spread of fear, social panic and even the propagation of certain crimes. Not everyone needs to know everything. Maybe transparency isn’t always the highest good. Sometimes, stability and peace of mind matter more. I’m not saying censorship is ideal. But maybe our obsession with absolute transparency isn’t perfect either. The foreigners I’ve met here tend to fall into two extremes: they’re either fully chinese-pilled or extremely critical, judging the culture without really trying to understand it. It's easier when you're a foreigner to have a good impression of china, i might never understand what he mean to live here.
 
-![library](assets/pixel art.jpg)
+![pixelart](assets/pixelart.jpg)
 
 # Philosophical ground
 I’ve been thinking about the philosophical roots behind this contrast (the way we think comes from philosophy, fyi). In the West, our worldview is mostly built on the same philosophers and core ideas.
 
 <br>
 
-In Asia, the foundation is entirely different — shaped by traditions like Buddhism, Confucianism, and Taoism. They have a fundamentally different way of thinking — one that doesn’t follow the same logic or values we’re used to.
-Western though, especially since the Enlightenment, places the individual at the center. Thinkers like Descartes and Kant emphasized autonomy, reason, and the power of critique as foundations for progress. Later, Hegel formalized this with his dialectic: thesis, antithesis, synthesis, where contradiction drives evolution. Even existentialists like Sartre or Nietzsche, in very different ways, reinforced the idea that self-affirmation is born through resistance. 
+<span style="color:white"> In Asia, the foundation is entirely different — shaped by traditions like Buddhism, Confucianism, and Taoism. They have a fundamentally different way of thinking — one that doesn’t follow the same logic or values we’re used to.
+Western though, especially since the Enlightenment, places the individual at the center. Thinkers like Descartes and Kant emphasized autonomy, reason, and the power of critique as foundations for progress. Later, Hegel formalized this with his dialectic: thesis, antithesis, synthesis, where contradiction drives evolution. Even existentialists like Sartre or Nietzsche, in very different ways, reinforced the idea that self-affirmation is born through resistance. </span>
 
 <br>
 
