@@ -6,7 +6,7 @@
 
 <br>
 
-![china](assets/china3.jpg)
+![china](assets/chinese.jpg)
 
 <br>
 
