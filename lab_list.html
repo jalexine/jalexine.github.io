@@ -1,0 +1,16 @@
+---
+layout: default
+title: alexine's lab
+permalink: /lab_list/
+---
+
+{%- if site.lab -%}
+  <ul>
+    {%- for post in site.lab -%}
+      <li>
+        <span>{{- post.date | date: site.theme_config.date_format -}}</span>
+        <a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a>
+      </li>
+    {%- endfor -%}
+  </ul>
+{%- endif -%}

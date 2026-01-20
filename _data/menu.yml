@@ -6,6 +6,8 @@ entries:
     entries:
       - title: my naive articles... >
         url: archive.html
+      - title: alexine's lab >
+        url: lab_list.html
 
 
   - title: <b> my links  </b>

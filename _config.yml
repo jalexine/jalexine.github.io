@@ -30,3 +30,5 @@ plugins:
 collections:
   reco:
     output: true
+  lab:
+    output: true
